@@ -1,4 +1,4 @@
- VPC Resources
+# VPC Resources
 #  * VPC
 #  * Subnets
 #  * Internet Gateway
